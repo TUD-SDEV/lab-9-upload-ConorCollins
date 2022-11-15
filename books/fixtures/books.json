@@ -1,0 +1,35 @@
+[
+  {
+    "model": "books.book",
+    "pk": "b8eddae3-7aa6-4a0c-9f55-3037c9bc5f2d",
+    "fields": {
+      "title": "Lightweight Django",
+      "author": "Mike Tyson",
+      "price": "5.00",
+      "date_publication": "2012-11-25",
+      "cover": "covers/Lightweight.jpg"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": "d034e6d9-b36d-43e0-ad51-ddc3045a48b0",
+    "fields": {
+      "title": "Python CookBook: Recipes For Mastering Python",
+      "author": "Mark Zuckerberg",
+      "price": "100.00",
+      "date_publication": "2016-11-01",
+      "cover": "covers/PythonCookbook.jpg"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": "f6fb206e-9e94-4501-bb0c-1bada30ba969",
+    "fields": {
+      "title": "Django Unleashed",
+      "author": "Quintin Tarenteino",
+      "price": "15.00",
+      "date_publication": "2020-11-08",
+      "cover": "covers/DjangoUnleashed.jpg"
+    }
+  }
+]
